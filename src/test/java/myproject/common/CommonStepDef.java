@@ -49,7 +49,6 @@ public class CommonStepDef {
 
   @When("I fill up search input")
   public void i_fill_up_search_input() {
-    System.out.println("juannnnnnnnnn");
     googleSearchScenario.fillInputSearch();
   }
 
